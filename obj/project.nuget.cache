@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQLBZGHakM8rX3PUnZnI22lAKBnmSLJglii5p7Irx4XGsrIMjFL07RX5qdB8FcSgfY8+USPhAXJywAY9G8zCzw==",
+  "dgSpecHash": "dlnIF53CO0Vwi5mWWBuSCEUZdunzvQv4D3bjAKSGvh2MGZMBHVhWJpNZJfDLBOZ2A30maOuvVDP9mkjLAU4/xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\MailAgent\\MailAgent.csproj",
+  "projectFilePath": "E:\\Projetos\\MailAgent\\MailAgent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\app.metrics.abstractions\\4.2.0\\app.metrics.abstractions.4.2.0.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\app.metrics.concurrency\\4.2.0\\app.metrics.concurrency.4.2.0.nupkg.sha512",

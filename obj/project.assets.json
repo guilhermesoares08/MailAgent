@@ -4969,11 +4969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guilherme\\source\\repos\\MailAgent\\MailAgent.csproj",
+      "projectUniqueName": "E:\\Projetos\\MailAgent\\MailAgent.csproj",
       "projectName": "MailAgent",
-      "projectPath": "C:\\Users\\Guilherme\\source\\repos\\MailAgent\\MailAgent.csproj",
+      "projectPath": "E:\\Projetos\\MailAgent\\MailAgent.csproj",
       "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guilherme\\source\\repos\\MailAgent\\obj\\",
+      "outputPath": "E:\\Projetos\\MailAgent\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
